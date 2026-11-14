@@ -1,0 +1,26 @@
+# Maven build output
+target/
+*.class
+
+# IDE and Editor configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive local configuration & secrets
+.env
+db.properties
+*.key
+*.pem
+*.log
+
+# Maven temporary / wrapper download cache
+.mvn/wrapper/maven-wrapper.jar

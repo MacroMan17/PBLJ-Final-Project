@@ -1,0 +1,9 @@
+# Database Properties Configuration Example
+# Copy this file to db.properties to configure MySQL connection credentials
+
+db.host=localhost
+db.port=3306
+db.name=oops
+db.user=oops_user
+db.password=your_password_here
+db.type=mysql
